@@ -5,6 +5,6 @@ function myLovecount() {
             count++;
             document.write( "  "+ "i    love   you   " + " " + count )
             document.write("</br>")
-        if (count == 3000) clearInterval(id); 
+        if (count == 3000) clearInterval(id), document.write("Chúc mọi người ngủ ngon"); 
     }
 }
