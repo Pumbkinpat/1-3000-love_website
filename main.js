@@ -8,4 +8,3 @@ function myLovecount() {
         if (count == 3000) clearInterval(id); 
     }
 }
-
